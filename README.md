@@ -85,7 +85,7 @@ D.2
 #### Multilingual corpora
 
 
-### Dicrionaries
+### Dictionaries
 
 *   [The CJKI Arabic Learner’s Dictionary](http://www.kanji.org/kanji/dictionaries/cald/cald_overview.pdf) (CALD) (_.pdf_).  
     A new concept dictionary that enables learners to gain a full understanding of MSA core vocabulary. An Arabic summary is available at [القاموس العربي الإنجليزي للمتعلمين](http://www.kanji.org/kanji/dictionaries/cald/cald_overview_a.pdf) (_.pdf_)
